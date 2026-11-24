@@ -6,7 +6,7 @@ The repository is private because it also holds outreach material and deployment
 
 ## How I work on it
 
-The project is developed with AI coding assistants (Claude Code, ChatGPT). My part is the testing side: deciding what each check must catch, running the suites, reviewing every pull request and keeping a written decision log. Every change goes through a pull request; nothing reaches production without a green test run.
+The project is developed with AI coding assistants (Claude Code, ChatGPT). My part is the testing side: deciding what each check must catch, running the suites, reviewing every pull request and keeping a written decision log. Every change goes through a pull request with its test results recorded.
 
 ## Test suite
 
